@@ -1,0 +1,7 @@
+C:\VISPL\BIN\Template\Template\bin\Debug\Template.exe.config
+C:\VISPL\BIN\Template\Template\bin\Debug\Template.exe
+C:\VISPL\BIN\Template\Template\bin\Debug\Template.pdb
+C:\VISPL\BIN\Template\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\VISPL\BIN\Template\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\VISPL\BIN\Template\Template\obj\Debug\Template.exe
+C:\VISPL\BIN\Template\Template\obj\Debug\Template.pdb
