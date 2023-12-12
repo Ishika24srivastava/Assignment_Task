@@ -1,0 +1,6 @@
+C:\VISPL\Code\ScientificCalculator\PowerOperations\bin\Debug\PowerOperations.dll
+C:\VISPL\Code\ScientificCalculator\PowerOperations\bin\Debug\PowerOperations.pdb
+C:\VISPL\Code\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.csproj.AssemblyReference.cache
+C:\VISPL\Code\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.csproj.CoreCompileInputs.cache
+C:\VISPL\Code\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.dll
+C:\VISPL\Code\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.pdb

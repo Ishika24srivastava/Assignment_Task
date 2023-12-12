@@ -1,0 +1,12 @@
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\ArithmeticCalculator.dll
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\PowerOperations.dll
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\ArithmeticCalculator.pdb
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\bin\Debug\PowerOperations.pdb
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.AssemblyReference.cache
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CopyComplete
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\VISPL\Code\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb

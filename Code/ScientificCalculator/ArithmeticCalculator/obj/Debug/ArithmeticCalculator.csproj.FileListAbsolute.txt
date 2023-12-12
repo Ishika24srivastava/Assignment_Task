@@ -1,0 +1,6 @@
+C:\VISPL\Code\ScientificCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.dll
+C:\VISPL\Code\ScientificCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.pdb
+C:\VISPL\Code\ScientificCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.csproj.AssemblyReference.cache
+C:\VISPL\Code\ScientificCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.csproj.CoreCompileInputs.cache
+C:\VISPL\Code\ScientificCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.dll
+C:\VISPL\Code\ScientificCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.pdb
