@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\ScientificCalculator\ArithmeticOperations\bin\Debug\ArithmeticOperations.dll
+C:\Users\Hp\source\repos\ScientificCalculator\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\Hp\source\repos\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.dll
+C:\Users\Hp\source\repos\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
+F:\FinalCode\ScientificCalculator\ArithmeticOperations\bin\Debug\ArithmeticOperations.dll
+F:\FinalCode\ScientificCalculator\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+F:\FinalCode\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+F:\FinalCode\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+F:\FinalCode\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.dll
+F:\FinalCode\ScientificCalculator\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

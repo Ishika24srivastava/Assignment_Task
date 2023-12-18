@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\ScientificCalculator\PowerOperations\bin\Debug\PowerOperations.dll
+C:\Users\Hp\source\repos\ScientificCalculator\PowerOperations\bin\Debug\PowerOperations.pdb
+C:\Users\Hp\source\repos\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.dll
+C:\Users\Hp\source\repos\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.pdb
+F:\FinalCode\ScientificCalculator\PowerOperations\bin\Debug\PowerOperations.dll
+F:\FinalCode\ScientificCalculator\PowerOperations\bin\Debug\PowerOperations.pdb
+F:\FinalCode\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.csproj.AssemblyReference.cache
+F:\FinalCode\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.csproj.CoreCompileInputs.cache
+F:\FinalCode\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.dll
+F:\FinalCode\ScientificCalculator\PowerOperations\obj\Debug\PowerOperations.pdb
